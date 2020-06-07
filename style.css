@@ -2,6 +2,9 @@ body {
   background-color: #fefdca;
   text-align: center;
   font-family: 'Montserrat', serif;
+  margin-left: 0px;
+  margin-right:0;
+  margin-bottom: 0;
 }
 
 h1 {
@@ -60,7 +63,7 @@ a:hover{
 }
 
 
-}
+
 
 .top-container {
   background-color: #fefdca;
@@ -77,6 +80,7 @@ margin: 100px 0;
 .bottom-container {
   background-color: #fff591;
   padding: 50px 0 20px;
+
 }
 
 
@@ -105,10 +109,7 @@ margin: 100px 0;
   bottom: 400px;
 }
 
-.mountain{
 
-
-}
 
 .skill{
   width: 25%;
