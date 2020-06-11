@@ -11,7 +11,7 @@ h1 {
   font-family: 'Sacramento', cursive;
   color: grey;
   word-spacing: 10px;
-  padding-top: 103px;
+  padding-top: 40px;
 
 }
 
@@ -37,7 +37,7 @@ p{
 
   margin:auto;
   font-family: 'Montserrat', sans-serif;
-  padding-top: 10px;
+  padding-bottom: 20px;
   word-spacing: 3px;
 
 }
